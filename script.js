@@ -1,6 +1,8 @@
 let correctLetters = [];
 let wrongLetters = [];
-let allLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'.split('');
+// let allLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'.split('');
+//9/6/2023 Leonardo
+let allLetters = 'FGHKMPVWZbdefghklmnprvwz'.split('');
 let startTime;
 let endTime;
 
